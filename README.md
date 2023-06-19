@@ -21,7 +21,7 @@
 
 - cd RST12
 
-- python RST3
+- python RST3.py
 
 
 ##
