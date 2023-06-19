@@ -19,7 +19,7 @@
 
  - pip install mechanize
 
-- cd 12
+- cd RST12
 
 - python RST3
 
